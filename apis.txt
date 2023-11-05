@@ -1,0 +1,4 @@
+AIzaSyBd77vOOV5q2aCjmFM1hF5k4a9uyeF-qws   
+
+//youtube data v3
+const BASE_URL = "https://www.googleapis.com/youtube/v3/search";
